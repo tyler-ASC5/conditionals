@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ///////////////
 // BACKSTORY //
 ///////////////
@@ -154,3 +155,6 @@ else {
 //////////////////////
 // console.log("The end");
 // console.log(`Score: ${score}`)
+=======
+
+>>>>>>> 4c633dd8f29de51acdde2f8d15409dc849e044f3
